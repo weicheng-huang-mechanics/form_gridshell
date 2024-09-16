@@ -14,4 +14,4 @@ g++ -fopenmp -I /usr/local/include/eigen-eigen-b3f3d4950030/ main.cpp world.cpp 
 
 # Run 
 
-./simDER option.txt
+./gridShell option.txt
