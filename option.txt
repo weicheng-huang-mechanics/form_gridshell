@@ -1,0 +1,16 @@
+rodRadius 1e-3
+youngM 1e9
+Poisson 0.5
+deltaTime 1e-3
+totalTime 2.0
+tol 1.0e-6
+stol 1.0e-6
+maxIter 100
+density 1000.0
+gVector 0.0 0.0 1000.0
+render 1
+saveData 1
+num-rods 22
+deltaLen 0.01
+stiffTimes 0.1
+speed 0.1
